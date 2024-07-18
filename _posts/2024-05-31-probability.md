@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Introduction to Probability: Part 1
+title: Introduction to Probability- Part 1
 date: 2024-05-31 10:00:00
-description: Introduction to Probability: Part 1
+description: Introduction to Probability- Part 1
 tags: probability
 categories: technical
 featured: true
