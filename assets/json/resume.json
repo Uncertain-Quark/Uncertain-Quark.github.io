@@ -1,25 +1,20 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Aditya Kommineni",
+    "label": "PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "akommine@usc.edu",
+    "phone": "",
+    "url": "https://uncertain-quark.github.io/",
+    "summary": "PhD Student in Electrical Engineering at the University of Southern California with interests in Representation learning for human centric signals",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "3710 McClintock Ave",
+      "postalCode": "CA 90007",
+      "city": "Los Angeles",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
     ]
   },
   "work": [
