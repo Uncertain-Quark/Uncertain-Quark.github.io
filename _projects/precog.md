@@ -2,7 +2,7 @@
 layout: page
 title: PRECOG
 description: Biomarking suicidal ideation
-img: assets/img/precog-img.png
+img: assets/img/precog.png
 importance: 1
 category: work
 related_publications: true
