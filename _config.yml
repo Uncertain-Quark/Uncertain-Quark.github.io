@@ -305,7 +305,7 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 display_tags: ["probability", "social"] # these tags will be displayed on the front page of your blog
-display_categories: ["technology", "technical"] # these categories will be displayed on the front page of your blog
+display_categories: ["poetry", "technical"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
